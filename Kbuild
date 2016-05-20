@@ -1,4 +1,5 @@
 #Modification du fichier
+#Modification du fichier apply2 sur dev
 # Kbuild for top-level directory of U-Boot
 # This file takes care of the following:
 # 1) Generate generic-asm-offsets.h
