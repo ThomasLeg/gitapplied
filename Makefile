@@ -1,4 +1,5 @@
 #modification 2 sur master
+# Ajout d'une ligne
 # (C) Copyright 2000-2013
 # Wolfgang Denk, DENX Software Engineering, wd@denx.de.
 #
