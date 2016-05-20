@@ -1,4 +1,4 @@
-#modification 1
+#modification 2 sur master
 # (C) Copyright 2000-2013
 # Wolfgang Denk, DENX Software Engineering, wd@denx.de.
 #
